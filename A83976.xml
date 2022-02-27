@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter vvritten out of the country to Mr Iohn Pym Esquire, one of the worthy members of the House of Commons, February I.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83976</idno>
+            <idno type="STC">Wing E30</idno>
+            <idno type="STC">Thomason E89_5</idno>
+            <idno type="STC">ESTC R2003</idno>
+            <idno type="EEBO-CITATION">99861106</idno>
+            <idno type="PROQUEST">99861106</idno>
+            <idno type="VID">113234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter vvritten out of the country to Mr Iohn Pym Esquire, one of the worthy members of the House of Commons, February I.</title>
+                  <author>R. E.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Webb,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>M.DC.XLII [1642, i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed R.E.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb:11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113234:1" rendition="simple:additions"/>
+            <p>A LETTER <hi>VVRITTEN</hi> Out of the Country TO M<hi rend="sup">r</hi> IOHN PYM Eſquire, one of the Worthy Members of the Houſe of COM<g ref="char:EOLhyphen"/>MONS, February 1.</p>
+            <p>
+               <add>feb: 11</add>Printed for W. WEBB. <hi>M.DC.XLII</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113234:2"/>
+            <pb n="1" facs="tcp:113234:2"/>
+            <head>A Letter to his worthy Friend Msr IOHN PYM Eſquire.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not need to tell you with what tenderneſſe of care I have hi<g ref="char:EOLhyphen"/>therto obſerved your commands concerning the diſperſing of thoſe bookes you ſent me, but I find my Arts now to faile, and that which herefore was wont to find a wil<g ref="char:EOLhyphen"/>ling, is now to ſeeke a receit; the Malignant party have infuſed ſuch principles into them, as begin to ſhake the whole fabricke, which with ſo much induſtry (I am ſure on your behalfe) hath beene built. From a right underſtanding alwaies proceeds a right judgment, (now thoſe I have to deale withall, as they want of the firſt, ſo they ever are forward in the latter: and now that their ſufferings hath prevailed above your Rhetorick, I am no longer able to reſtraine their raſh Judgments of you and many other worthy Members of the Houſes, accu<g ref="char:EOLhyphen"/>ſing you as the prime Inſtruments of their miſeries. And
+<pb n="2" facs="tcp:113234:3"/>what more ordinary then the frequency of ſuch like ſpeeches as theſe? have we at all mended our condition ſince this Parliament? Nay are we not fall'n almoſt into termes of abſolute ruine? do we not ſee our eſtates, not onely taken away without, but againſt Law, (and that by their authority, who pretended to protect us againſt all Arbitrary power whatſoever? (Had wee borne the illegall (as they termed it) lay of Ship money even to the period of ours, and our childrens dayes, it had never layne ſo heavy upon us, as this one of the twentieth, be<g ref="char:EOLhyphen"/>ſides the guilt that gnawes us, for that it is imployed a<g ref="char:EOLhyphen"/>gainſt our lawfull King. Nay, as oft as any Order hath iſ<g ref="char:EOLhyphen"/>ſued out from either or both Houſes (ſince the decerning ſpirit of our good King, whom God hath ſet over us, hath beene abſent) hath not the event beene Prophane<g ref="char:EOLhyphen"/>neſſe, murther, diſloyalty in the higheſt kind, not onely not to aſſiſt, but to reſiſt the higher powers? And as oft as our impieties have (for our ſins) ſeemed to proſper, ſo oft hath thanks been given unto Almighty God; and thoſe things, which in time paſt were marks of proſperi<g ref="char:EOLhyphen"/>ty, are now badges of publike calamities. And if any Or<g ref="char:EOLhyphen"/>dinance of Parliament hath bin ordained, new &amp; ſtrange by flattery or baſe and abject ſufferance; how have we cried it up, as proceeding from the infallible Committee Chaire, as if wee had tyed our faith to their ſleeves; whoſe garments have not beene waſht from their fil<g ref="char:EOLhyphen"/>thineſſe, nor their hands from ſhedding of innocent bloud? Now for the King, what fault hath Hee com<g ref="char:EOLhyphen"/>mitted? whom hath Hee offended, that Hee hath not trebly ſatisfied? whether was it, that He was likely by his unparallell'd virtues, to bring forth an unexampled
+<pb n="3" facs="tcp:113234:3"/>and every where envied happineſſe to the Kingdome of <hi>England,</hi> with a true and lawfull progeny, to muzzell the mouthes of all pretenders, to eſtabliſh our peace? or would we, that there ſhould be brought into the Imperi<g ref="char:EOLhyphen"/>all dignity the iſſue of a great Horſe, or ſome ſuch abor<g ref="char:EOLhyphen"/>tive Governours? To be ſhort, wee are dealt with by cunning Sophiſtry, with odious Treaſon, to rid our ſelves of our allegeance, and then 'tis an opportunity of no leſſe favour to them, if we will part with the twenti<g ref="char:EOLhyphen"/>eth part of our eſtates, there being no way to maintaine one wickedneſſe, but by another.</p>
+            <p>Thus are wee brought into danger of our lives (by the Parliament Clients) who ſhadowing themſelves under the name of the people by thoſe uſuall termes of Religion and Law, have notwithſtanding in effect over<g ref="char:EOLhyphen"/>throwne both, having done that under the name of Peace, which would hardly have happened in Warre. Firſt, Armes are taken againſt the King, there wanted onely a Captaine, which in a Tumult was eaſily found. The King now might eaſily leave the Citie, ſeeing at a becke (in His preſence) ſuch Tumults were raiſed: What hath beene His demeanour ſince, but a continu<g ref="char:EOLhyphen"/>all wooing of us, not to undoe our ſelves for the private ends of a few, whoſe deſerts have beene onely the ſhed<g ref="char:EOLhyphen"/>ding of the Earle of <hi>Strafford's</hi> bloud, followed with an <hi>Ocean</hi> of that of <hi>Ireland,</hi> and now of <hi>England?</hi> Bribery from Papiſts, ſeparating of Proteſtants, countenancing of Anabaptiſts, and all other Sectaries, inhibiting good Preachers; favouring ill, yea, even Coach-men and Coblers: Plundring of Houſes, Robbing of Orphans, exhorting to all manner of Rebellion and Lewdneſſe,
+<pb n="4" facs="tcp:113234:4"/>while they themſelves have Lorded it, free from all dan<g ref="char:EOLhyphen"/>ger, and care, but by printing ſuch plauſible lies as might draw things into a farther confuſion, and by hoording and ſending beyond Seas thoſe ſummes pro<g ref="char:EOLhyphen"/>vided for the diſtreſſe of this and bleeding <hi>Ireland;</hi> (for they have notice, I cannot tell by what meanes of thoſe Trunkes, you know by what ſecrecy were conveyed away.) And as for thoſe Propoſitions you ſent by thoſe Honourable Lords, certainly (had they con<g ref="char:EOLhyphen"/>ſidered the odiouſneſſe of them, and what Maſters they ſerve) they would have preferr'd the honour of their ancient Nobility, and the high opinion the Kingdome hath of them, before any obedience to you; and com<g ref="char:EOLhyphen"/>ply with His Majeſties Juſtice and Integrity, and hold it much beneath them to ſtoope to ſo much vice as is contained in them: and certainly whatſoever diſcon<g ref="char:EOLhyphen"/>tents of theirs you build upon, you will at laſt finde them to returne to their proper ſphere, knowing they cannot avoid the Juſtice of Heaven, if they move out of their order.</p>
+            <p>Theſe things (leſt your danger and prevention ſhould have met together I thought good to acquaint you with, not doubting but your grave wiſedome, as it will endeavour the warding of thoſe blowes are aymed at you, ſo it will take in good part the faithfull advice of</p>
+            <closer>
+               <signed>Your moſt affectionate friend, and humble ſervant <hi>R. E.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="5" facs="tcp:113234:4"/>
+            <head>Poſtſcript.</head>
+            <p>ONe of the Bookes you laſt ſent me, entituled (<hi>His Majesties Declaration and finall Reſolution, concer<g ref="char:EOLhyphen"/>ning the Honourable City of</hi> London) though (I aſſure you) it was framed with all ſubtilties that heart could wiſh; yet, (I know not by what crafty eye that pryed into our Mummery) was brought unto the King, and He knowing it to be falſe, cauſed it to be burned by the hands of the Hangman, which has added a ſtrange diſ<g ref="char:EOLhyphen"/>credit to all our devices of that nature; pray be more circumſpect hereafter.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
